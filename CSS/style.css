@@ -1,11 +1,11 @@
 @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700;900&family=Noto+Serif+JP:wght@300;400;600&family=DM+Sans:wght@300;400;500&display=swap');
 
 :root {
-  --bg:           #f5f0e8;
+  --bg:           #f5e8f4;
   --surface:      #fdfaf4;
   --ink:          #1a1612;
   --ink-muted:    #6b6257;
-  --light-pink:   #dd7abf;
+  --red:          #dd7abf;
   --red-dark:     #922b21;
   --gold:         #b8860b;
   --border:       #d6cfc3;
